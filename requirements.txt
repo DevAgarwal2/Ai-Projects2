@@ -3,3 +3,8 @@ python-dotenv
 PyPDF2
 python-docx
 sarvamai
+openai
+groq
+e2b-code-interpreter
+matplotlib
+numpy
