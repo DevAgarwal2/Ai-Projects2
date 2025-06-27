@@ -1,0 +1,5 @@
+streamlit
+python-dotenv
+PyPDF2
+python-docx
+sarvamai
